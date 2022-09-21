@@ -52,7 +52,7 @@ p{
 /* seção de apresentação */
 
 #presentation{ /* essa seção meche no background da primeira dobra */
-  background-image: url(./background.jpg);
+  background-image: url(./img/background.jpg);
   background-size: cover;
   background-position: top center; 
   position: relative;
